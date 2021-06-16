@@ -23,13 +23,17 @@
 # How to work with Repo?
 
 ## Cloning
-• Assumes access to all repos: 
- git clone --recursive https://github.com/jarco0204/inverte
+ • Assumes access to all repos: 
+   git clone --recursive https://github.com/jarco0204/inverte
  
-• If forgetten to add -r flag, then:
- git submodule update --init --recursive
+ • If forgetten to add -r flag, then:
+   git submodule update --init --recursive
+
+## Update References
+ • git fetch
+ • git pull 
  
-## Fetch
+## Fetch from Submodules
  • git submodule update --remote
  • Explanation: Any new commit to a remote individual repo is fetched.
  
