@@ -29,7 +29,7 @@
  • If forgetten to add -r flag, then:
    git submodule update --init --recursive
 
-## Update References
+## Update Changes to this Repo (Not submodules)
  • git fetch
  • git pull 
  
