@@ -29,5 +29,17 @@
 • If forgetten to add -r flag, then:
  git submodule update --init --recursive
  
+## Fetch
+ • git submodule update --remote
+ • Explanation: Any new commit to a remote individual repo is fetched.
+ 
+## Commit 
+ • git status
+ • git add . 
+ • git commit -m "AreaOfDevelopment: Change"
+ • git push
+ 
+ 
+ 
  
 
