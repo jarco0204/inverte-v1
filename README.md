@@ -20,5 +20,10 @@
 • Firmware for ESP32.
 • AWS IoT Core Connection
 
-# How to Commit?
+# How to work with Repo?
+
+## Cloning
+• Assumes access to all repos: 
+ git clone --recurse-submodules https://github.com/jarco0204/inverte
+ 
 
