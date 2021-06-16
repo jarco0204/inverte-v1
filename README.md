@@ -24,6 +24,10 @@
 
 ## Cloning
 • Assumes access to all repos: 
- git clone --recurse-submodules https://github.com/jarco0204/inverte
+ git clone --recursive https://github.com/jarco0204/inverte
+ 
+• If forgetten to add -r flag, then:
+ git submodule update --init --recursive
+ 
  
 
