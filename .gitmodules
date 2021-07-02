@@ -4,9 +4,6 @@
 [submodule "inverte-analytics"]
 	path = inverte-analytics
 	url = https://github.com/jarco0204/inverte-analytics.git
-[submodule "inverte-client"]
-	path = inverte-client
-	url = https://github.com/jarco0204/inverte-client.git
 [submodule "inverte-iot-scale"]
 	path = inverte-iot-scale
 	url = https://github.com/jarco0204/inverte-iot-scale.git
