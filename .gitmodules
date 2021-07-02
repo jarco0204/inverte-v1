@@ -10,3 +10,6 @@
 [submodule "inverte-landing"]
 	path = inverte-landing
 	url = https://github.com/jarco0204/inverte-landing.git
+[submodule "inverte-client"]
+	path = inverte-client
+	url = https://github.com/jarco0204/inverte-client.git
