@@ -43,6 +43,8 @@
  • git commit -m "AreaOfDevelopment: Change"
  • git push
  
+
+ Copyright ©2022, InVerte FoodTech Inc. - All rights reserved.
  
  
  
