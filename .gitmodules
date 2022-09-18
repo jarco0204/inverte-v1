@@ -19,3 +19,6 @@
 [submodule "inverte-scripts"]
 	path = inverte-scripts
 	url = https://github.com/jarco0204/inverte-scripts
+[submodule "inverte-product"]
+	path = inverte-product
+	url = https://github.com/jarco0204/inverte-product.git
