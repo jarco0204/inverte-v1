@@ -22,3 +22,6 @@
 [submodule "inverte-product"]
 	path = inverte-product
 	url = https://github.com/jarco0204/inverte-product.git
+[submodule "inverte-iot-scale-v2"]
+	path = inverte-iot-scale-v2
+	url = https://github.com/jarco0204/inverte-iot-scale-v2.git
