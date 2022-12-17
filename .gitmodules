@@ -25,3 +25,6 @@
 [submodule "inverte-iot-scale-v2"]
 	path = inverte-iot-scale-v2
 	url = https://github.com/jarco0204/inverte-iot-scale-v2.git
+[submodule "inverte-firmware-v3"]
+	path = inverte-firmware-v3
+	url = https://github.com/jarco0204/inverte-firmware-v3
