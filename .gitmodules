@@ -22,3 +22,9 @@
 [submodule "inverte-firmware-v3"]
 	path = inverte-firmware-v3
 	url = https://github.com/jarco0204/inverte-firmware-v3
+[submodule "inverte-firmware-v1"]
+	path = inverte-firmware-v1
+	url = https://github.com/jarco0204/inverte-firmware-v1
+[submodule "inverte-firmware-v2"]
+	path = inverte-firmware-v2
+	url = https://github.com/jarco0204/inverte-firmware-v2
